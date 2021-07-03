@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+
+    int t;
+    // scanf("%d", &t);
+    cin >> t;
+    while (t--)
+    {
+        long long a, b;
+        cin >> a >> b;
+        if (a == 1 && b == 2)
+            cout << "Yes\n";
+        else
+            cout << "No\n";
+        cout.flush();
+    }
+}
