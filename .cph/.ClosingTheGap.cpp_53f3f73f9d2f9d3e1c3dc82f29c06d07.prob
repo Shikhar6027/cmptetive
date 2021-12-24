@@ -1,0 +1,1 @@
+{"name":"Local: ClosingTheGap","url":"c:\\Users\\user\\OneDrive\\Desktop\\cmptetive\\ClosingTheGap.cpp","tests":[{"id":1640356684477,"input":"3\n3\n10 10 10\n4\n3 2 1 2\n5\n1 2 3 1 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\cmptetive\\ClosingTheGap.cpp","group":"local","local":true}

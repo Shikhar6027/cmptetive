@@ -1,0 +1,1 @@
+{"name":"Local: wrongAddition","url":"c:\\Users\\user\\OneDrive\\Desktop\\cmptetive\\wrongAddition.cpp","tests":[{"id":1640101257710,"input":"6\n17236 1106911\n1 5\n108 112\n12345 1023412\n1 11\n1 20\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\cmptetive\\wrongAddition.cpp","group":"local","local":true}

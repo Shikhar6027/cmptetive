@@ -1,0 +1,1 @@
+{"name":"Local: B_Gregor","url":"c:\\Users\\user\\OneDrive\\Desktop\\cmptetive\\B_Gregor.cpp","tests":[{"id":1627829835156,"input":"4\n3\n000\n111\n4\n1111\n1111\n3\n010\n010\n5\n11001\n00000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\cmptetive\\B_Gregor.cpp","group":"local","local":true}
